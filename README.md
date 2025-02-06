@@ -15,11 +15,11 @@ I'm diving into various aspects of Data Science, including:
 ## 🚀 Additional Highlights
 - **Languages:**
   - Proficient: SQL, R
-  - Intermediate: Python, Java
-- **Projects:** Course Scheduler, FIFA World Cup Data Analysis, Inventory Management.
+  - Intermediate: Python
+- **Projects:** Course Scheduler, Tennis Match Predictor, FIFA World Cup Data Analysis, Inventory Management.
 
 ## 🎉 Interests and Hobbies
-- **Sports:** I enjoy watching F1, cricket, soccer, tennis, and playing both table tennis and tennis occasionally.
+- **Sports:** I enjoy watching F1, Cricket, Soccer, Tennis, and playing both Table tennis and Tennis occasionally.
 - **Music:** I'm a fan of EDM music; it's my go-to for coding sessions and relaxation.
 
 ## 💬 Let's Connect
